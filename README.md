@@ -132,4 +132,4 @@ live_loop :cowbell3 do
   end
 end
 ```
-Estos son los sonidos que aparecen en nuestra canión.
+Estos son los sonidos que aparecen en nuestra canción.
